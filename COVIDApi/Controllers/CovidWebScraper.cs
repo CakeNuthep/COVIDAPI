@@ -57,7 +57,7 @@ namespace COVIDApi.Controllers
             IEnumerable<IElement> headTableRawData = null;
             IEnumerable<IElement> bodyTableRawData = null;
 
-            tableRawData = document.All.Where(x => x.Id == "main_table_countries_div");
+            tableRawData = document.All.Where(x => x.Id == "main_table_countries_today");
             foreach (Element element in tableRawData)
             {
                 headTableRawData = element.GetElementsByTagName("thead");
