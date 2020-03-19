@@ -17,7 +17,7 @@ namespace COVIDApi.Controllers
             string url = ConfigurationManager.AppSettings["URL_WEB"];
             CovidWebScraper covid = new CovidWebScraper(url);
             DataTable dt = covid.ScrapeWebsite();
-            return Ok(dt);
+            return Ok(new { covid = dt });
         }
 
     }

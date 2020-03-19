@@ -1,6 +1,12 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <sitemanifest>
+<<<<<<< HEAD
   <IisApp path="D:\COVIDApi\COVIDAPI_GITHUB\COVIDApi\obj\Release\Package\PackageTmp" managedRuntimeVersion="v4.0" />
   <setAcl path="D:\COVIDApi\COVIDAPI_GITHUB\COVIDApi\obj\Release\Package\PackageTmp" setAclResourceType="Directory" />
   <setAcl path="D:\COVIDApi\COVIDAPI_GITHUB\COVIDApi\obj\Release\Package\PackageTmp" setAclUser="anonymousAuthenticationUser" setAclResourceType="Directory" />
+=======
+  <IisApp path="D:\COVIDAPI\COVIDApi\obj\Release\Package\PackageTmp" managedRuntimeVersion="v4.0" />
+  <setAcl path="D:\COVIDAPI\COVIDApi\obj\Release\Package\PackageTmp" setAclResourceType="Directory" />
+  <setAcl path="D:\COVIDAPI\COVIDApi\obj\Release\Package\PackageTmp" setAclUser="anonymousAuthenticationUser" setAclResourceType="Directory" />
+>>>>>>> 5840f5bfdfd1bbcf8da2a45f6cb7ddee1405f8ce
 </sitemanifest>

@@ -85,6 +85,7 @@ D:\COVIDApi\COVIDApi\obj\Debug\COVIDApi.csprojAssemblyReference.cache
 D:\COVIDApi\COVIDApi\obj\Debug\COVIDApi.csproj.CopyComplete
 D:\COVIDApi\COVIDApi\obj\Debug\COVIDApi.dll
 D:\COVIDApi\COVIDApi\obj\Debug\COVIDApi.pdb
+<<<<<<< HEAD
 D:\COVIDApi\COVIDAPI_GITHUB\COVIDApi\bin\COVIDApi.dll.config
 D:\COVIDApi\COVIDAPI_GITHUB\COVIDApi\bin\COVIDApi.dll
 D:\COVIDApi\COVIDAPI_GITHUB\COVIDApi\bin\COVIDApi.pdb
@@ -172,3 +173,6 @@ D:\COVIDApi\COVIDAPI_GITHUB\COVIDApi\obj\Debug\COVIDApi.csprojAssemblyReference.
 D:\COVIDApi\COVIDAPI_GITHUB\COVIDApi\obj\Debug\COVIDApi.csproj.CopyComplete
 D:\COVIDApi\COVIDAPI_GITHUB\COVIDApi\obj\Debug\COVIDApi.dll
 D:\COVIDApi\COVIDAPI_GITHUB\COVIDApi\obj\Debug\COVIDApi.pdb
+=======
+D:\COVIDAPI\COVIDApi\obj\Debug\COVIDApi.csproj.CoreCompileInputs.cache
+>>>>>>> 5840f5bfdfd1bbcf8da2a45f6cb7ddee1405f8ce
